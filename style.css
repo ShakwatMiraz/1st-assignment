@@ -1,0 +1,128 @@
+.headings{
+    font-size: 40px;
+    font-family: 'Yeseva One', cursive;
+    border-left: 7px solid green;
+    border-top-left-radius: 10px;
+    border-image:  linear-gradient(45deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+.headings-dif{
+    color: coral;
+
+}
+.button{
+    background-color: rgb(236, 52, 6);
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    font-weight: 400px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    padding: 10px;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    padding-left: 2%;
+    
+
+}
+.half-width img{
+    width: 100%;
+}
+#heading-align-center{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+.sec-class{
+    margin: 10px;
+}
+.three-part-sec{
+    
+    width: 25%;
+    
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: greenyellow;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.three-part-sec img{
+    width: 100px;
+
+}
+#box1{
+    background-color: rgb(202, 240, 145);
+}
+#box2{
+    background-color: rgb(250, 174, 212);
+}
+#box3{
+    background-color: lightsalmon;
+
+}
+.flex{
+    display:flex;
+    margin: 0 100px;
+    padding-left: 20px;
+    
+}
+.third-sec-img-div img{
+    margin-left: 100px;
+    width: 40%;
+    
+}
+.third-sec{
+    display: flex;
+    width: 100%;
+    margin-top: 100px;
+    padding: 10px 10px 10x 10px;
+}
+.third-sec-writting-div{
+    padding-right: 20px;
+    width: 50%;
+    padding-left: 10px;
+
+}
+#img-third{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.last-sec{
+    margin-bottom: 50px;
+}
+#last-h{
+    text-align: center;
+}
+
+
+footer p{
+    text-align: center;
+    color: rgb(14, 12, 11);
+}
+#footer-head{
+    text-align: center ;
+    color: rgb(46, 31, 14);
+}
+
+#img-pro{
+    width: 60%;
+}
+.foot{
+    margin-top: 400px;
+    padding-top: 100px;
+    background-color: rgb(147, 243, 155);
+}
+#last-img{
+    width: 60%;
+}
